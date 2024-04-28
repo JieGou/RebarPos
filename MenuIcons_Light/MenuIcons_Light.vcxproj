@@ -10,7 +10,7 @@
     <ProjectGuid>{081A2147-0690-4AC0-935A-E50D8C1597D0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>MenuIcons</RootNamespace>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>MenuIcons_Light</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

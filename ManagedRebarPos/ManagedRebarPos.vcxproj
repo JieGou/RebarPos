@@ -14,7 +14,7 @@
     <ProjectGuid>{D26DC853-A22B-4C5B-810F-F76D1247FA93}</ProjectGuid>
     <RootNamespace>ManagedRebarPos</RootNamespace>
     <Keyword>ManagedCProj</Keyword>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release-2017|x64'" Label="Globals">
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
